@@ -40,7 +40,19 @@ Have the following packages installed:
     "web-vitals": "^2.1.4"
   }
 ```
+## Time taken for completion
+
+- It took effective 5 hours to go through the react-use-websocket and integrate the same in
     
+## What I would build over it
+
+- I would integrate it for tracking commodities movement over a specified interval of time
+
+## For deployment
+
+- I would deploy it over nodejs as backend and mongodb as database to store information when this would involve multiple container movement. So the history
+- and everything can be stored for reference
+
 ## Demo
 
 stackblitz reference!
